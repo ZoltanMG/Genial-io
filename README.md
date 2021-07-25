@@ -1,4 +1,4 @@
-# Reto Genia.io
+# Reto Genial.io
 # Porcentaje de productividad
 
 El reto consiste en crear gráficos usando una librería con datos de un archivo CSV, en este caso se usó la librería highcharts.
