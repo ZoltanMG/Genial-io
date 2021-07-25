@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #eee;
+}
+
+#container-general {
+    max-width: 1300px;
+    max-height: 70vh;
+
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 10px 10px 30px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 9px;
+}
+
+#container-pie {
+    max-width: 700px;
+    margin: 10px;
+    margin-top: 30px;
+    box-shadow: 10px 10px 30px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 9px;
+}
+
+.container-others{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 40vh;
+}
+
+#container-estadisticas-generales{
+    width: 100%;
+    max-width: 700px;
+    margin: 10px;
+    margin-top: 30px;
+    box-shadow: 10px 10px 30px 7px rgba(0, 0, 0, 0.2);
+    border-radius: 9px;
+}
+
+    

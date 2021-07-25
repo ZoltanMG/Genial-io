@@ -1,0 +1,6 @@
+# Configuración de vs Code
+.vscode
+
+# Modulos instalados
+package-lock.json
+node_modules
